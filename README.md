@@ -1,8 +1,8 @@
-# Housing Price Prediction using Linear Regression -
+# Housing Price Prediction using Linear Regression 
 This project predicts house prices based on various features like area, number of bedrooms, bathrooms, location, furnishing status, etc.
 It uses Linear Regression (a supervised machine learning algorithm) to model the relationship between house features and their prices.
 
-# Features - 
+# Features 
 1.Clean and well-structured Jupyter Notebook
 2.Data preprocessing (handling categorical variables with one-hot encoding)
 3.Train/test split for fair model evaluation
@@ -14,14 +14,14 @@ It uses Linear Regression (a supervised machine learning algorithm) to model the
 6.Visualization of Actual vs Predicted Prices
 7.Interactive: Predict price for a new custom house
 
-# Tech Stack-
+# Tech Stack
 1.Python 3
 2.Pandas → data manipulation
 3.NumPy → numerical computations
 4.Matplotlib & Seaborn → data visualization
 5.Scikit-learn → machine learning (Linear Regression, train/test split, evaluation metrics)
 
-# Project Workflow-
+# Project Workflow
 1.Import required libraries
 2.Load dataset (housing.csv)
 3.Explore dataset (shape, info, head)
@@ -33,7 +33,7 @@ It uses Linear Regression (a supervised machine learning algorithm) to model the
 9.Visualize results (Actual vs Predicted Prices)
 10.Predict price for a new house
 
-# How to Run-
+# How to Run
 1.Clone this repository:
 git clone https://github.com/your-username/housing-price-prediction.git
 cd housing-price-prediction
