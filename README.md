@@ -37,13 +37,10 @@ It uses Linear Regression (a supervised machine learning algorithm) to model the
 1.Clone this repository:
 git clone https://github.com/your-username/housing-price-prediction.git
 cd housing-price-prediction
-
 2.Install dependencies:
 pip install -r requirements.txt
-
 3.Run the Jupyter Notebook:
 jupyter notebook
-
 4.Open housing_price_prediction.ipynb and run all cells.
 
 # Example Output: 
